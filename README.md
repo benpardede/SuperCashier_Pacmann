@@ -22,7 +22,8 @@ Adapun fitur-fitur atau fungsi yang dapat dijalankan pada program ini adalah :
 - [x] def Add_item(self)
 
   Merupakan fungsi yang digunakan untuk menambah barang ke dalam keranjang.
-![image](https://github.com/benpardede/SuperCashier_Pacmann/assets/67301642/eb0a70a1-b027-47eb-9775-4132fc245958)
+![image](https://github.com/benpardede/SuperCashier_Pacmann/assets/67301642/4a453f11-f365-491d-a81c-ea4a7924ebfe)
+
 
 - [x] def update_item(self)
 
@@ -56,14 +57,9 @@ Adapun fitur-fitur atau fungsi yang dapat dijalankan pada program ini adalah :
 
 - [x] def total_price(self)
 
-  Merupakan fungsi yang digunakan untuk memperlihatkan total harga yang harus dibayarkan.
-  ![image](https://github.com/benpardede/SuperCashier_Pacmann/assets/67301642/93e6d1d0-7de5-4210-90cd-e80336219f75)
+  Merupakan fungsi yang digunakan untuk memperlihatkan daftar belanjaan serta total harga yang harus dibayarkan.
+![image](https://github.com/benpardede/SuperCashier_Pacmann/assets/67301642/d02b929d-b6e7-46b3-8d6b-0177cb49f27a)
 
-- [x] def dapat_diskon(self, total_price)
-
-  Merupakan fungsi yang digunakan untuk memperlihatkan total diskon yang didapat.
-  
-  ![image](https://github.com/benpardede/SuperCashier_Pacmann/assets/67301642/2deddf44-530f-41ed-a06b-4b3067ad4a02)
 
 
 # 4. **TEST CASE SUPER CASHIER**
