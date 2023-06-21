@@ -1,16 +1,16 @@
-**Super Cashier Program**
+# **Super Cashier Program**
 
-**Bernart Marihot Pardede, Analytics and Data Science Batch 14**
+### **Bernart Marihot Pardede, Analytics and Data Science Batch 14**
 
-**Objective**
+# 1. **Objective**
 
 Super Cashier Program dibuat untuk memberikan self experience kepada customer untuk bisa bebas dalam menentukan barang, jumlah, dan harga yang ingin dibeli.
 
-**Alur Program**
+# 2. **Alur Program**
 
 ![Super Cashier Flow](https://github.com/benpardede/SuperCashier_Pacmann/assets/67301642/3ecf4092-ee22-4b56-ac42-c1ac3ae1fcb5)
 
-**Penjelasan Code**
+# 3. **Penjelasan Code**
 
 Adapun fitur-fitur atau fungsi yang dapat dijalankan pada program ini adalah :
 
@@ -64,4 +64,7 @@ J. def dapat_diskon(self, total_price)
   Merupakan fungsi yang digunakan untuk memperlihatkan total diskon yang didapat.
   
   ![image](https://github.com/benpardede/SuperCashier_Pacmann/assets/67301642/2deddf44-530f-41ed-a06b-4b3067ad4a02)
+
+
+# 4. **TEST CASE**
 
