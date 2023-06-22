@@ -2,7 +2,7 @@
 
 ### **Bernart Marihot Pardede, Analytics and Data Science Batch 14**
 
-# 1. **Latar Belakang Problems**
+# 1. **Latar Belakang Masalah**
 
 Seorang pemilik salah satu supermarket besar di salah satu kota di Indonesia yang membutuhkan sistem kasir yang dapat self-service di supermarket miliknya. Customer yang datang bisa langsung memasukkan item yang dibeli, jumlah item yang dibeli, dan harga item yang dibeli dan fitur lainnya. Pemilik tersebut membutuhkan programmer untuk membuatkan fitur-fitur tersebut agar bisa menerapkan sistem self-service di supermarket miliknya.
 
