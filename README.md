@@ -53,7 +53,7 @@ Adapun fitur-fitur atau fungsi yang dapat dijalankan pada program ini adalah :
 - [x] def check_order(self)
 
   Merupakan fungsi yang digunakan untuk melakukan pemeriksaan barang apakah daftar belanja sudah sesuai atau belum.
-  ![image](https://github.com/benpardede/SuperCashier_Pacmann/assets/67301642/70793a0d-1c47-4d27-83f3-93f457d0dc26)
+![image](https://github.com/benpardede/SuperCashier_Pacmann/assets/67301642/70793a0d-1c47-4d27-83f3-93f457d0dc26)
 
 - [x] def total_price(self)
 
