@@ -2,15 +2,19 @@
 
 ### **Bernart Marihot Pardede, Analytics and Data Science Batch 14**
 
-# 1. **Objective**
+# 1. **Latar Belakang Problems**
 
-Super Cashier Program dibuat untuk memberikan self experience kepada customer untuk bisa bebas dalam menentukan barang, jumlah, dan harga yang ingin dibeli.
+Seorang pemilik salah satu supermarket besar di salah satu kota di Indonesia yang membutuhkan sistem kasir yang dapat self-service di supermarket miliknya. Customer yang datang bisa langsung memasukkan item yang dibeli, jumlah item yang dibeli, dan harga item yang dibeli dan fitur lainnya. Pemilik tersebut membutuhkan programmer untuk membuatkan fitur-fitur tersebut agar bisa menerapkan sistem self-service di supermarket miliknya.
 
-# 2. **Alur Program**
+# 2. **Objective**
+
+Membuat Super Cashier Program untuk memberikan self-experience kepada customer untuk bisa bebas dalam menentukan barang, jumlah, dan harga yang ingin dibeli.
+
+# 3. **Alur Program**
 
 ![Super Cashier Flow](https://github.com/benpardede/SuperCashier_Pacmann/assets/67301642/3ecf4092-ee22-4b56-ac42-c1ac3ae1fcb5)
 
-# 3. **Penjelasan Code**
+# 4. **Penjelasan Code**
 
 Adapun fitur-fitur atau fungsi yang dapat dijalankan pada program ini adalah :
 
@@ -62,7 +66,7 @@ Adapun fitur-fitur atau fungsi yang dapat dijalankan pada program ini adalah :
 
 
 
-# 4. **TEST CASE SUPER CASHIER**
+# 5. **TEST CASE SUPER CASHIER**
 
 - [x] Membuat Object Transactions
       
