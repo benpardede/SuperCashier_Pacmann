@@ -14,13 +14,13 @@ a. Fitur untuk membuat ID Transaksi sebagai user dan keranjang untuk menampilkan
 
 b. Fitur untuk menambah item yang ingin dibeli oleh user
 
-c. Fitur untuk menggani nama barang yang ada ke dalam keranjang
+c. Fitur untuk mengganti nama barang yang ada ke dalam keranjang
 
 d. Fitur untuk mengganti jumlah barang yang ada ke dalam keranjang
 
-e. Fitur untuk mengganti jumlah barang yang ada di dalam keranjang
+e. Fitur untuk mengganti harga barang yang ada di dalam keranjang
 
-f. Fitur untuk mengganti harga barang yang ada di dalam keranjang
+f. Fitur untuk mencheck barang belanjaan yang sudah dibeli
 
 g. Fitur untuk menghapus item belanjaan di dalam keranjang
 
