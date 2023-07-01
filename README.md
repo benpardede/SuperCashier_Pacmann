@@ -6,9 +6,26 @@
 
 Seorang pemilik salah satu supermarket besar di salah satu kota di Indonesia yang membutuhkan sistem kasir yang dapat self-service di supermarket miliknya. Customer yang datang bisa langsung memasukkan item yang dibeli, jumlah item yang dibeli, dan harga item yang dibeli dan fitur lainnya. Pemilik tersebut membutuhkan programmer untuk membuatkan fitur-fitur tersebut agar bisa menerapkan sistem self-service di supermarket miliknya.
 
-# 2. **Objective**
+# 2. **Objective & Requirement**
 
-Membuat Super Cashier Program untuk memberikan self-experience kepada customer untuk bisa bebas dalam menentukan barang, jumlah, dan harga yang ingin dibeli.
+Goals yang ingin di capai pada projek ini adalah membuat Super Cashier Program untuk memberikan self-experience kepada customer untuk bisa bebas dalam menentukan barang, jumlah, dan harga yang ingin dibeli, sehingga requirements yang dibutuhkan adalah sebagai berikut : 
+
+a. Fitur untuk membuat ID Transaksi sebagai user dan keranjang untuk menampilkan daftar belanjaan
+
+b. Fitur untuk menambah item yang ingin dibeli oleh user
+
+c. Fitur untuk menggani nama barang yang ada ke dalam keranjang
+
+d. Fitur untuk mengganti jumlah barang yang ada ke dalam keranjang
+
+e. Fitur untuk mengganti jumlah barang yang ada di dalam keranjang
+
+f. Fitur untuk mengganti harga barang yang ada di dalam keranjang
+
+g. Fitur untuk menghapus item belanjaan di dalam keranjang
+
+h. Fitur untuk menampilkan total belanjaan dan nominal yang perlu dibayarkan
+
 
 # 3. **Alur Program**
 
