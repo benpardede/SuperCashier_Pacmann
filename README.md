@@ -123,3 +123,14 @@ Adapun fitur-fitur atau fungsi yang dapat dijalankan pada program ini adalah :
   
   **Output :**  
   ![image](https://github.com/benpardede/SuperCashier_Pacmann/assets/67301642/2dd81782-f53f-44ec-81a9-6ec74bd070a8)
+
+
+  # 5. **Conclusion**
+
+Hasil ini belum sepenuhnya sempurna dan masih banyak point-point pengembangan yang dapat dikembangkan kedepannya. Untuk itu beberapa Future Work yang dapat dilakukan jika mempunyai waktu lebih dan SDM lebih diantaranya adalah : 
+
+a. Menambahkan fitur membership atau loyalty dimana terdapat setiap level (bronze, gold, platinum, etc) yang nantinya akan mendapatkan penawaran menarik seperti cashback atau menggunakan sistem point.
+
+b. Membuat database agar bisa menampilkan item belanjaan agar user mempunyai pandangan tentang barang yang ingin dibeli, bisa juga ditambahkan fungsi etalase khusus barang diskon pada periode tertentu.
+
+## Terakhir, saya ucapkan rasa terima kasih terbesar besarnya untuk Tim Pacmann dan juga tim TA yang sudah bekerja keras memandu kami.
